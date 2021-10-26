@@ -1,7 +1,8 @@
 # Graphql apollo-client
 
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/231/full/EGH_Apollo-GraphQL-React_Final.png" alt="Course Logo" width="374" height="374"/>
+Taller practico para poner en practica los conceptos de GraphQL,  unsando @apollo/client con react.js
 
+## Iniciar
 Para ejecutar el cliente, debe inicializar la base de datos y ejecutar el servidor de antemano.
 
 ```bash
