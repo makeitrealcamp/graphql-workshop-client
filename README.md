@@ -23,7 +23,7 @@ yarn start:slow
 
 Puedes encontrar el servidor ubicado aquí:`./server`
 
-La base de datos almacena dos archivos JSON almacenados en `/tmp/recipes.json` y `/tmp/ingedients.json`.
+La base de datos almacena un archivo JSON almacenados en la raiz `./recipes.json`.
 
 
 ## Retos para este taller
